@@ -26,15 +26,17 @@
    <platform name="android">
       <config-file target="res/xml/config.xml" parent="/*">
          <feature name="BluetoothPrinter">
-            <param name="android-package" value="br.com.cordova.printer.bluetooth.BluetoothPrinter"/>
+            <param name="android-package" value="com.btprinter.demo"/>
          </feature>
       </config-file>
 
       <config-file target="AndroidManifest.xml" parent="/*">
          <uses-permission android:name="android.permission.BLUETOOTH" />
+         <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+         <uses-permission android:name="android.permission.INTERNET" />
       </config-file>
 
-      <source-file src="src/android/BluetoothPrinter.java" target-dir="src/br/com/cordova/printer/bluetooth" />
+      <source-file src="src/android/BluetoothPrinter.java" target-dir="com/btprinter/demo" />
 
    </platform>
 </plugin>

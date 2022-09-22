@@ -27,7 +27,7 @@ cordova plugin add https://github.com/aharoen/Cordova-Plugin-BT_ESC_POS_Printer.
 
 ## Usage
 
-Get list of paired bluetooth devices, including printers, if any:
+Get list of paired bluetooth devices, including printers, if any: 
 
 ```javascript
 BTPrinter.list(function(data){

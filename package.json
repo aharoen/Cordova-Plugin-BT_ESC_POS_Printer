@@ -31,7 +31,7 @@
       "version": ">=3.0.0"
     }
   ],
-  "author": "Cesar E. Balzer",
+  "author": "Aharoen",
   "license": "Apache 2.0",
   "bugs": {
     "url": "https://github.com/aharoen/cordova-plugin-bt_esc_pos_printer/issues"

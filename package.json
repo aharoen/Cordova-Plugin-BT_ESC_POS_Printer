@@ -1,16 +1,16 @@
 {
-  "name": "Cordova-Plugin-BT_ESC_POS_Printer",
+  "name": "cordova-plugin-bt_esc_pos_printer",
   "version": "0.0.1-dev",
   "description": "A cordova plugin for bluetooth printer for android platform.",
   "cordova": {
-    "id": "Cordova-Plugin-BT_ESC_POS_Printer",
+    "id": "cordova-plugin-bt_esc_pos_printer",
     "platforms": [
       "android"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aharoen/Cordova-Plugin-BT_ESC_POS_Printer.git"
+    "url": "git+https://github.com/aharoen/cordova-plugin-bt_esc_pos_printer.git"
   },
   "keywords": [
     "cordova",
@@ -34,7 +34,7 @@
   "author": "Cesar E. Balzer",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/aharoen/Cordova-Plugin-BT_ESC_POS_Printer/issues"
+    "url": "https://github.com/aharoen/cordova-plugin-bt_esc_pos_printer/issues"
   },
-  "homepage": "https://github.com/aharoen/Cordova-Plugin-BT_ESC_POS_Printer#readme"
+  "homepage": "https://github.com/aharoen/cordova-plugin-bt_esc_pos_printer#readme"
 }

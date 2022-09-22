@@ -7,11 +7,11 @@
    <name>BTPrinter</name>
    <description>A cordova plugin for bluetooth printer for android platform.</description>
 
-   <repo>https://github.com/aharoen/Cordova-Plugin-BT_ESC_POS_Printer</repo>
+   <repo>https://github.com/aharoen/cordova-plugin-bt_esc_pos_printer</repo>
    <license>Apache 2.0</license>
    <keywords>cordova, bluetooth, printer, pos, text, barcode, image, base64, qrcode</keywords>
 
-   <author>Cesar E. Balzer</author>
+   <author>Aharoen</author>
 
    <!-- cordova -->
    <engines>

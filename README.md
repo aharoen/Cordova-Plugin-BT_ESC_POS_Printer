@@ -22,7 +22,7 @@ Thanks!
 Using the Cordova CLI and NPM, run:
 
 ```
-cordova plugin add https://github.com/aharoen/Cordova-Plugin-BT_ESC_POS_Printer.git
+cordova plugin add https://github.com/aharoen/cordova-plugin-bt_esc_pos_printer
 ```
 
 ## Usage
